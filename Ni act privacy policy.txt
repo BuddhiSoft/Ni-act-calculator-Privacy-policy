@@ -1,0 +1,38 @@
+Privacy Policy — NI Act 1881 Legal Calculator
+
+**Last updated:** 19 October 2026
+
+1. Introduction
+
+NI Act 1881 Legal Calculator respects your privacy. This application helps users calculate dates and limitation periods related to Section 138 of the Negotiable Instruments Act, 1881.
+
+2. Information Collection
+
+The app is designed to calculate results using dates and information entered by the user. It does not intentionally collect or store the information entered into the calculator.
+
+3. Data Storage
+
+The app does not maintain a database or save users' entered calculation data on a server. Entered information is used to perform calculations and display results.
+
+4. Sharing of Information
+
+The app does not intentionally sell, share, or disclose users' entered calculation information to third parties.
+
+5. Third-Party Services
+
+The app does not intentionally use advertising or analytics services to collect user information. If third-party services are added in the future, this policy will be updated as necessary.
+
+6. Children's Privacy
+
+The app does not intentionally collect personal information from children or other users.
+
+7. Security
+
+Because the app is designed not to store entered calculation data, it does not maintain a server-side database of that information.
+
+8. Changes to This Privacy Policy
+
+This Privacy Policy may be updated if the app's functionality or data practices change. The latest version will be published on the Privacy Policy webpage.
+
+
+
